@@ -383,17 +383,27 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
 - Keras CNN과 비교해서 학습할 것!
 
 - [노트북](./day06/mldl02_파이토치_합성곱신경망.ipynb)
-<img src="./image/ml0020.png" width="700">
+
+    <img src="./image/ml0020.png" width="700">
+
 ## 7일차
 
 ### 토이프로젝트
 - Cats and Dogs 이진분류 실습
+- 캐글에서 코딩하는 법
 
-- [노트북]()
-### YOLO
+- [노트북](./day07/mldl01_Cats_and_Dogs_이진분류.ipynb)
+
+- 훈련세트로 예측결과
+
+    <img src="./image/ml0022.png" width="700">
+
+- Kaggle 참조노트북
+- [노트북](./day07/zzaebok-cat-vs-dog.ipynb)
 
 ## 8일차
+- YOLO(You Only Look Once) - 객체 탐지, 이미지 분할 등을 위한 딥러닝 모델
 
-### 토이프로젝
+### YOLO
 
 ### 코딩테스트
